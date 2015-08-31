@@ -1,0 +1,18 @@
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalcTests\bin\Debug\ExpCalcTests.dll
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalcTests\bin\Debug\ExpCalcTests.pdb
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalcTests\bin\Debug\ExpCalc.exe
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalcTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalcTests\bin\Debug\ExpCalc.pdb
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalcTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalcTests\obj\Debug\ExpCalcTests.csprojResolveAssemblyReference.cache
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalcTests\obj\Debug\ExpCalcTests.dll
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalcTests\obj\Debug\ExpCalcTests.pdb
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalcTests\bin\Debug\ExpCalcTests.dll
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalcTests\bin\Debug\ExpCalcTests.pdb
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalcTests\bin\Debug\ExpCalc.exe
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalcTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalcTests\bin\Debug\ExpCalc.pdb
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalcTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalcTests\obj\Debug\ExpCalcTests.csprojResolveAssemblyReference.cache
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalcTests\obj\Debug\ExpCalcTests.dll
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalcTests\obj\Debug\ExpCalcTests.pdb

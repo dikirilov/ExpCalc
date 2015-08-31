@@ -1,0 +1,18 @@
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalc\bin\Debug\ExpCalc.exe.config
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalc\bin\Debug\ExpCalc.exe
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalc\bin\Debug\ExpCalc.pdb
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalc\obj\Debug\ExpCalc.csprojResolveAssemblyReference.cache
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalc\obj\Debug\ExpCalc.Form1.resources
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalc\obj\Debug\ExpCalc.Properties.Resources.resources
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalc\obj\Debug\ExpCalc.csproj.GenerateResource.Cache
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalc\obj\Debug\ExpCalc.exe
+E:\Dropbox\Работа\C# Home Work (Kasper)\ExpCalc\ExpCalc\obj\Debug\ExpCalc.pdb
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalc\bin\Debug\ExpCalc.exe.config
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalc\obj\Debug\ExpCalc.exe
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalc\obj\Debug\ExpCalc.pdb
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalc\bin\Debug\ExpCalc.exe
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalc\bin\Debug\ExpCalc.pdb
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalc\obj\Debug\ExpCalc.csprojResolveAssemblyReference.cache
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalc\obj\Debug\ExpCalc.Form1.resources
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalc\obj\Debug\ExpCalc.Properties.Resources.resources
+C:\Users\di_kirilovskiy\Documents\Visual Studio 2015\Projects\ExpCalc\ExpCalc\obj\Debug\ExpCalc.csproj.GenerateResource.Cache
